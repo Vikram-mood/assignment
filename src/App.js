@@ -13,7 +13,7 @@ import Header from './components/Header';
 
 function App() {
   return (
-    <div className="px-0 sm:px-28">
+    <div className="px-0 sm:px-28 ">
       
       <Header />
       <Body />
